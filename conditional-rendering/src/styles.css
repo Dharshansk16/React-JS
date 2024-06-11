@@ -1,0 +1,46 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: aqua;
+}
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+}
+.form {
+  background-color: rgb(140, 255, 255);
+  width: 400px;
+  height: auto;
+}
+.form input {
+  margin: 20px;
+  padding: 20px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.form button {
+  margin: 20px;
+  padding: 20px;
+  width: 200px;
+  font-size: 24px;
+  color: aqua;
+}
+header {
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: 50px;
+  color: #ffffff;
+  margin: auto;
+  width: 50%;
+}
+
+.form input::placeholder {
+  font-size: 24px;
+  color: aqua;
+}

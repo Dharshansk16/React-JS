@@ -1,0 +1,53 @@
+body {
+  background-color: #ffff61;
+}
+.App {
+  margin: auto;
+  width: 450px;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+  height: 500px;
+  width: 400px;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 7px;
+}
+header {
+  font-size: 24px;
+  font-family: cursive;
+  background-color: #8845f4;
+  color: white;
+
+  width: fit-content;
+  margin: 20px;
+}
+.card input {
+  padding: 5px;
+  margin-left: 50px;
+}
+
+.card input:focus {
+  outline: none;
+}
+.card button {
+  margin: 10px;
+  padding: 5px;
+}
+
+.list {
+  padding: 10px;
+  font-size: larger;
+  background: #ffff61;
+  margin: 10px;
+  width: 150px;
+  font-weight: 1000;
+  color: #7b31f3;
+}
+.card li::marker {
+  color: #fff;
+}
+
+.card hr {
+  margin: 20px;
+}

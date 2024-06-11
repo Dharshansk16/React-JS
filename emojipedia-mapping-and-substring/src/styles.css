@@ -1,0 +1,52 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading {
+  background-color: #8845f4;
+  margin: 30px;
+  padding: 20px;
+  color: #fff;
+}
+
+body {
+  background-color: #cbfffd;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  padding: 10px;
+  width: 300px;
+  height: 300px;
+  margin: 25px;
+  border: 2px solid #8845f4;
+}
+
+.image {
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+}
+.column {
+  float: left;
+}
+.title {
+  color: #8845f4;
+  font-family: cursive;
+  font-weight: 1000;
+  line-height: 20px;
+  font-size: 20px;
+}
+
+.content {
+  color: #6f6f6f;
+  border: 2px solid #8845f4;
+  padding: 20px;
+  margin: 20px;
+}
+.center {
+  margin: auto;
+  width: 80%;
+}

@@ -1,0 +1,35 @@
+.App {
+  margin: auto;
+  width: 50%;
+}
+
+.container input {
+  margin: 20px;
+  padding: 20px;
+  background-color: rgb(179, 255, 230);
+  font-size: 20px;
+  color: #b8b8b8;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container button {
+  background-color: #fff;
+  color: aqua;
+  margin: 20px;
+  padding: 20px;
+  width: 260px;
+  font-size: 20px;
+  border-radius: 5px;
+}
+body {
+  background-color: #23ffbd;
+}
+.container {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+.container h1 {
+  text-align: center;
+}
