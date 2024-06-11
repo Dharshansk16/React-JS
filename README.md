@@ -4,10 +4,5 @@ This repository contains a collection of projects and examples covering the basi
 
 
 Here is the link to the original CodeSandbox folder:
-.
-.
-.
-.
-
 [React js](https://codesandbox.io/dashboard/sandboxes/React%20JS?workspace=efd24891-4784-4567-a13b-e52b5938fbe2)
 
